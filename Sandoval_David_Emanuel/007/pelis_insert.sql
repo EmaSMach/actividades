@@ -42,3 +42,5 @@ SELECT * FROM personas;
 SELECT * FROM peliculas;
 SELECT * FROM actores;
 SELECT * FROM directores;
+SELECT * FROM directores_peliculas;
+SELECT * FROM actores_peliculas;
